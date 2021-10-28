@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(166, 212, 197);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+#h1 {
+  text-align: center;
+}
+
+.first {
+  background-color: darkslategrey;
+  padding: 20px;
+}
+
+.menu li {
+  color: white;
+  font-size: 20px;
+}
+.list {
+  color: white;
+  font-size: 20px;
+}
+a {
+  color: rgb(10 6 6);
+  text-decoration: solid;
+}
+a:hover {
+  font-size: 20px;
+}
